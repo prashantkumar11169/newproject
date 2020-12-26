@@ -1,0 +1,39 @@
+body{
+	
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.heading{
+	
+	padding:15px;
+}
+.heading1{
+	
+		color:#DA6127;
+}
+
+.text{
+	
+	color:#DA6127;
+}
+.img1{
+	padding-right:5px;
+	margin:0px;
+	width:auto;
+	height:auto;
+	max-width:100%;
+	max-height:100%;
+	
+}
+.img2{
+	
+	width:auto;
+	height:auto;
+	max-width:100%;
+	max-height:100%;  
+	margin-left:25px;
+	background-color:#0168AA;
+}
+
+
